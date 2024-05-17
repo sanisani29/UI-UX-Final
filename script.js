@@ -33,7 +33,7 @@ document.body.appendChild( renderer.domElement );
 const controls = new OrbitControls( camera, renderer.domElement );
 
 // choose this position for orthographic
-camera.position.set( 30, 1400, -106 );
+camera.position.set( 30, 1400, -108 );
 // choose this position for perspective
 // camera.position.set( 36, 100, -96 );
 controls.target.set(36, 0, -106)
