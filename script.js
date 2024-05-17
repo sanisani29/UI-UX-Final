@@ -3,6 +3,16 @@ import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
 import { data, dataReady } from './data.js'
 
 
+// How to update/publish to github
+/*
+git status
+git add .      OR        git add file.js
+git status
+git commit -m "Your message"
+git status
+git push origin main
+git log
+*/
 
 
 
